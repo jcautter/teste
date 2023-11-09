@@ -1,1 +1,3 @@
-minha_lista = ['Joao', 'Paulo', 'Cautte']
+from setuptools import setup
+
+setup()
