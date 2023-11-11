@@ -1,5 +1,7 @@
 from setuptools import setup
 
+minha_lista = [1,2,3,4,5]
+
 setup(
     name='teste'
     , version='0.0.1'
