@@ -1,1 +1,3 @@
-val = 10
+class Teste:
+  def __init__(self):
+    self.val = 10
