@@ -7,4 +7,5 @@ setup(
     , author='João Paulo de Brito e Cautter'
     , author_email='jcautter@gmail.com'
     , license='MIT'
+    , packages=['teste']
 )
